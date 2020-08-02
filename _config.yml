@@ -1,3 +1,22 @@
+name: Junglim blog
+description: small talks
+#meta_description: "Kenny Github Blog. IT stuffs"
+
+markdown: kramdown
+#highlighter: rouge
+#logo: false
+exclude:
+  - LICENSE.txt
+  #- README.md
+
+#baseurl: ""
+
+#domain_name: "https://kenny.yeoyou.net"
+#google_analytics: "UA-174188111-1"
+
+plugins:
+  - jekyll-paginate
+
 theme: jekyll-theme-tactile
 
 defaults:
