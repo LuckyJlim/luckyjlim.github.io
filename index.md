@@ -1,3 +1,4 @@
+<strong>Haha</strong>
 
     {% for post in paginator.posts %}
 
@@ -23,3 +24,4 @@
     </article>
 
     {% endfor %}
+**hoho**
